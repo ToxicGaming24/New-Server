@@ -1,0 +1,7 @@
+name: Lobby
+version: 1.0
+author: ToxicGaming
+main: de.ToxicGaming.Lobby.Lobby
+
+commands:
+  build:
